@@ -4,7 +4,7 @@ return {
 	description = "compilador e interpretador de SKL",
 	tags = { "SKL", "lua", "tool" },
 	license = "MIT",
-	author "PipocaLeca75",
+	author = "PipocaLeca75",
 	homepage = "https://github.com/PipocaLeca75/SKLLuaTool",
 	dependencies = {},
 	files = { "*.lua" }
