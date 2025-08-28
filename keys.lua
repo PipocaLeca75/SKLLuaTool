@@ -470,7 +470,7 @@ local funcs = {
 		a:ap()
 		local b = a:interpreter(a:na(0))
 		local e = values:new()
-		for f=1, c.qntargs do
+		for f=1, b.qntargs do
 			a:ap()
 			e:add(a:interpreter(a:na(0)))
 		end
